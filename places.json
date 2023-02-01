@@ -1,0 +1,488 @@
+[
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Computer Science PM Office",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Room",
+        "name": "Conference Room",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Room",
+        "name": "Controller Record Room",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Hall",
+        "name": "Faculty Hall 1",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Washroom",
+        "name": "Female Washroom",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Washroom",
+        "name": "Male Washroom",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Quality Enhancement Cell",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Record and Registration Office",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Student Advisor Office",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Room",
+        "name": "Student Teacher Meeting Room 1",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Administration Office",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Hall",
+        "name": "Faculty Hall 2",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Washroom",
+        "name": "Female Washroom",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Human Resource Manager Office",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Human Resource Office",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Management Science PM Office",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Social Science PM Office",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Room",
+        "name": "Student Teacher Meeting Room 2",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Hall",
+        "name": "Faculty Hall 3",
+        "floor": "3rd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Washroom",
+        "name": "Male Washroom",
+        "floor": "3rd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Hall",
+        "name": "ORIC Hall",
+        "floor": "3rd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "ZABTech Office",
+        "floor": "3rd Floor"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Library",
+        "name": "Library",
+        "floor": "Basement"
+    },
+    {
+        "building": "Admin Building",
+        "category": "ATM",
+        "name": "ATM",
+        "floor": "Ground"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Admission Office",
+        "floor": "Ground"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Hall",
+        "name": "Auditorium",
+        "floor": "Ground"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Washroom",
+        "name": "Female Washroom",
+        "floor": "Ground"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Finance Office",
+        "floor": "Ground"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "HOC Executive Assistance Office",
+        "floor": "Ground"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "HOC Office",
+        "floor": "Ground"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Washroom",
+        "name": "Male Washroom",
+        "floor": "Ground"
+    },
+    {
+        "building": "Admin Building",
+        "category": "Office",
+        "name": "Security Room",
+        "floor": "Ground"
+    },
+    {
+        "building": "Main Building",
+        "category": "Washroom",
+        "name": "Female Washroom",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Lab",
+        "name": "Lab 3",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Washroom",
+        "name": "Male Washroom",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Media Room",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "Program Support Office",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 201",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 202",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 203",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 204",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 205",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 206",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "ZAB Solution Office",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "ZAB TV Studio",
+        "floor": "1st Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Lab",
+        "name": "DLD Lab",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "Examination Office",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Washroom",
+        "name": "Female Washroom",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Female Prayer Room",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Hall",
+        "name": "Hall 1",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Hall",
+        "name": "Hall 2",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Lab",
+        "name": "Lab 4",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Lab",
+        "name": "Lab 5",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Washroom",
+        "name": "Male Washroom",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Male Prayer Room",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 301",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 302",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 303",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 305",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 306",
+        "floor": "2nd Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "ASO Office",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Cafeteria",
+        "name": "Cafeteria",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "Computer Science HOD Office",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Washroom",
+        "name": "Female Washroom",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "IT Manager Office",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "IT Office",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Lab",
+        "name": "Lab 1",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Lab",
+        "name": "Lab 2",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Washroom",
+        "name": "Male Washroom",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "Management Science HOD Office",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "NOC Office",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 101",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 102",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 103",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 104",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Room",
+        "name": "Room 105",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Main Building",
+        "category": "Office",
+        "name": "Sports Office",
+        "floor": "Ground Floor"
+    },
+    {
+        "building": "Outside Area",
+        "category": "Grounds",
+        "name": "Basketball Ground",
+        "floor": "Ground"
+    },
+    {
+        "building": "Outside Area",
+        "category": "Grounds",
+        "name": "Football Ground",
+        "floor": "Ground"
+    },
+    {
+        "building": "Outside Area",
+        "category": "Printing Shop",
+        "name": "Printing Shop",
+        "floor": "Ground"
+    },
+    {
+        "building": "Outside Area",
+        "category": "Grounds",
+        "name": "Table Tennis Court",
+        "floor": "Ground"
+    }
+]
